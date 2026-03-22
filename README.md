@@ -1,5 +1,5 @@
 # Spin Squeezing
-
+（由Codex生成）
 这个仓库收集了若干自旋压缩（spin squeezing）相关的数值复现材料，包含：
 
 - OAT（One-Axis Twisting）模型的大粒子数优化脚本。
